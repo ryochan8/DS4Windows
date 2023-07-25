@@ -11,7 +11,7 @@ This project is a fork of the work of Jays2Kings. You can find the old project
 website at [ds4windows.com](http://ds4windows.com).
 Note: The Website Is No Longer Working
 
-![DS4Windows Preview](https://raw.githubusercontent.com/ryochan8/DS4Windows/jay/ds4winwpf_screen_20200412.png)
+![DS4Windows Preview](https://raw.githubusercontent.com/ryochan8/DS4Windows/ds4winwpf_screen_20200412.png)
 
 ## Downloads
 
