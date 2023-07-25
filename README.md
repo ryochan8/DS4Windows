@@ -11,11 +11,11 @@ This project is a fork of the work of Jays2Kings. You can find the old project
 website at [ds4windows.com](http://ds4windows.com).
 Note: The Website Is No Longer Working
 
-![DS4Windows Preview](https://raw.githubusercontent.com/Ryochan7/DS4Windows/jay/ds4winwpf_screen_20200412.png)
+![DS4Windows Preview](https://raw.githubusercontent.com/ryochan8/DS4Windows/jay/ds4winwpf_screen_20200412.png)
 
 ## Downloads
 
-- **[Main builds of DS4Windows](https://github.com/Ryochan7/DS4Windows/releases)**
+- **[Main builds of DS4Windows](https://github.com/ryochan8/DS4Windows/releases)**
 
 ## Requirements
 
@@ -43,7 +43,7 @@ Note: The Website Is No Longer Working
 
 ### Other
 
-[Backloggery](https://backloggery.com/ryochan7)
+[Backloggery](https://backloggery.com/ryochan8)
 
 ## Installation Tutorial
 
@@ -175,8 +175,8 @@ For other games, it might be better if people could test against any game
 that I have in my library and try to reproduce a problem. Here are
 links to my Steam and GOG profiles so that people can see what games I have.
 
-https://steamcommunity.com/id/Ryochan7/games/?tab=all  
-https://www.gog.com/u/Ryochan7/games
+https://steamcommunity.com/id/ryochan8/games/?tab=all  
+https://www.gog.com/u/ryochan8/games
 
 ## Pull Requests
 
@@ -192,11 +192,11 @@ rejected if no reasonable solution can be found to incorporate code changes.
 If you would like to send some coin my way, here are some means by
 which to do so.
 
-**Buy Me A Coffee:** https://buymeacoffee.com/ryochan7
-**PayPal:** https://paypal.me/ryochan7  
-**Cash App:** https://cash.app/$ryochan7  
+**Buy Me A Coffee:** https://buymeacoffee.com/ryochan8
+**PayPal:** https://paypal.me/ryochan8  
+**Cash App:** https://cash.app/$ryochan8  
 **Patreon:** https://patreon.com/user?u=501036  
-**SubscribeStar:** https://subscribestar.com/ryochan7
+**SubscribeStar:** https://subscribestar.com/ryochan8
 
 ### Crypto
 
